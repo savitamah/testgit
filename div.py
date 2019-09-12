@@ -1,1 +1,1 @@
-
+print("Division method")
